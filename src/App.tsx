@@ -1,8 +1,7 @@
 import Navbar from "@/scenes/navbar"
 import Home from "@/scenes/home"
 
-import { useE
-  ffect, useState } from "react"
+import { useEffect, useState } from "react"
 import { SelectedPage } from "@/shared/types"
 import Benefits from "@/scenes/benefits"
 import OurClasses from "@/scenes/ourClasses"
